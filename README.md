@@ -1,0 +1,2 @@
+# SuperSmashAHS
+yes
